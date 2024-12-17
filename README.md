@@ -1,6 +1,6 @@
 Hey There 👋
 
-- 🔭 I’m currently working on a personal webapp project for a E-Commerce
+- 🔭 I’m currently working on a personal webapp project for an E-Commerce
 
 - Some techs I've used and am currently studying:
   
